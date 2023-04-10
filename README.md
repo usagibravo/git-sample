@@ -1,3 +1,4 @@
-# git-sample
-
-This is a sample repository for learing PHP.
+# README
+Gitの練習用のリポジトリです。
+- コミットの練習
+を行います。
